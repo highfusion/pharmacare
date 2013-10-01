@@ -43,7 +43,7 @@
         <hr />
         <div style="height: 160px;">
             <ul class="homelist">
-                <li><a href="/forms/privacy.pdf" target="_blank">Privacy Notice</a></li>
+                <li><a href="/forms/privacy.form.pdf" target="_blank">Pharmacare Notice of Privacy Form</a></li>
                 <li><a href="/forms/intake.pdf" target="_blank">Intake/Referral Form</a></li>
                 <li><a href="/forms/Curlin-Pump-Instructions.pdf" target="_blank">Curlin Pump Instructions</a></li>
                 <li><a href="/forms/Kangaroo-Joey-Instructions.pdf" target="_blank">Kangaroo Joey Instructions</a></li>
@@ -68,7 +68,7 @@
             <li>Cardiac Therapy (Diuretic and Inotropes)</li>
             <li>Hydration/Hyperemesis</li>
             <li>Blood Factors (Hemophilia)</li>
-            <li>Speciality Pharmacy Injectables</li>
+            <li>Specialty Pharmacy Injectables</li>
         </ul>
         <p>&nbsp;</p>
         <p>Disease Management/IV Therapies provided for patients with (but not limited to) Asthma/COPD, Diabetes, Cystic Fibrosis, Multiple Sclerosis, Congestive Heart Failure, HIV/AIDS, Hemophilia, Crohn’s Disease, Rheumatoid Arthritis and Osteoporosis.</p>
