@@ -33,7 +33,7 @@
             </div>
         </div>
         <div class="footer">
-            <div class="floatleft">Pharmacare Health Specialists&copy; <% =Date.Now.ToString("yyyy")%> | <a href="/forms/privacy.pdf" target="_blank">Privacy Policy</a></div>
+            <div class="floatleft">Pharmacare Health Specialists&copy; <% =Date.Now.ToString("yyyy")%> | <a href="/forms/privacy.form.pdf" target="_blank">Privacy Policy</a></div>
         </div>
     </div>
 
